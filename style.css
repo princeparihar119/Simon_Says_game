@@ -1,16 +1,16 @@
 body {
     text-align: center;
     margin: auto;
-    background:url(SimonSays-1030x637.jpg);
-    background-size: cover;
+    background-color: #9052fb;
     color: yellow;
 }
 .btn {
-    height: 200px;
-    width: 200px;
+    height: 140px;
+    width: 140px;
     border-radius: 20%;
-    border: 5px solid black;
+    border: 3px solid black;
     margin: 1.5rem;
+    box-shadow: 6px 6px 10px black;
 }
 .btn-container {
     display: flex;
@@ -35,6 +35,6 @@ body {
     background-color: green;
 }
 .text {
-    font-weight: 900;
-    font-size: 40px;
+    font-weight: 700;
+    font-size: 30px;
 }
